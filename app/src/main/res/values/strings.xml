@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">2 in 1 App</string>
+    <string name="enter_a_message">Enter a message</string>
+    <string name="submit">Submit</string>
+    <string name="this_is_the_prompt">Guess a number between 0 and 10 </string>
+    <string name="preference_file_key">com.example.a2in1app.PREFERENCE_FILE_KEY</string>
+</resources>
